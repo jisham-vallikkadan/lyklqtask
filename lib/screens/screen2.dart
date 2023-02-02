@@ -83,7 +83,7 @@ class _Screen2State extends State<Screen2> {
                           // },
                           controller: numbercontroller,
                           decoration: InputDecoration(
-                            hintText: 'bike/car',
+                            hintText: 'KL10AZ1224',
                             enabledBorder: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(20),
                                 borderSide:
